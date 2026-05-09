@@ -81,12 +81,13 @@ CETV-4
 茂名公共
 
 日本,#genre#
-NHK
-NHK G
-NHK E
+NHK総合
+NHK Eテレ
+NHK WORLD-JAPAN
 日テレ
+日本テレビ
 テレビ朝日
-TBS
+TBSテレビ
 テレビ東京
 フジテレビ
 TOKYO MX
@@ -107,33 +108,36 @@ ViuTV
 凤凰香港
 
 台湾,#genre#
+台視
 台视
+中視
 中视
+華視
 华视
+民視
 民视
+公視
 公视
 TVBS
+東森新聞
 东森新闻
+三立新聞
 三立新闻
+中天新聞
 中天新闻
-年代新闻
-非凡新闻
-
-澳门,#genre#
-澳视澳门
-澳视葡文
-澳视体育
-澳视资讯
-澳门卫星
+民視新聞
+民视新闻
 
 美国,#genre#
-ABC
-CBS
-NBC
+ABC News
+CBS News
+NBC News
 FOX
-PBS
+FOX News
 CNN
 CNBC
 Bloomberg
+PBS
+NASA TV
 NASA TV
 CGTN America
