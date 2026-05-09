@@ -160,6 +160,15 @@ CNN,CNN International
 VOA美国之音,VOA
 DW
 
+CGTN纪录,CGTN Documentary,CGTN记录,CGTN记录频道
+中国气象,中国气象 (576p) [Not 24/7]
+新华中文
+新华英语
+CHC动作电影
+CHC家庭影院
+CHC高清电影
+華視,华视HD
+
 RTHK 31,港台电视 31,港台電視 31,RTHK31,RTHK-31,RTHK TV 31,RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
 RTHK 32,港台电视 32,港台電視 32,RTHK32,RTHK-32,RTHK TV 32,RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]
 RTHK 33,港台电视 33,港台電視 33,RTHK33,RTHK-33,RTHK TV 33,RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
