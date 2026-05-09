@@ -29,6 +29,10 @@ CETV-1
 CETV-2
 CETV-3
 CETV-4
+CGTN纪录
+中国气象
+新华中文
+新华英语
 
 📡卫视频道,#genre#
 湖南卫视
@@ -146,3 +150,8 @@ CGTN America
 CGTN Global Biz
 VOA美国之音
 DW
+
+🎬影视频道,#genre#
+CHC动作电影
+CHC家庭影院
+CHC高清电影
