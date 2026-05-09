@@ -1,53 +1,30 @@
 📺央视频道,#genre#
 CCTV-1
-CCTV-1 综合
 CCTV-2
-CCTV-2 财经
 CCTV-3
-CCTV-3 综艺
 CCTV-4
-CCTV-4 中文国际
 CCTV-5
-CCTV-5 体育
 CCTV-5+
-CCTV-5+ 体育赛事
 CCTV-6
-CCTV-6 电影
 CCTV-7
-CCTV-7 国防军事
 CCTV-8
-CCTV-8 电视剧
 CCTV-9
-CCTV-9 纪录
 CCTV-10
-CCTV-10 科教
 CCTV-11
-CCTV-11 戏曲
 CCTV-12
-CCTV-12 社会与法
 CCTV-13
-CCTV-13 新闻
 CCTV-14
-CCTV-14 少儿
 CCTV-15
-CCTV-15 音乐
 CCTV-16
-CCTV-16 奥林匹克
 CCTV-17
-CCTV-17 农业农村
-
 CCTV-4K
-CCTV 4K
 CCTV-8K
-CCTV 8K
-
 CGTN
 CGTN Documentary
 CGTN Español
 CGTN Français
 CGTN Русский
 CGTN العربية
-
 CETV-1
 CETV-2
 CETV-3
@@ -66,6 +43,7 @@ CETV-4
 安徽卫视
 重庆卫视
 东南卫视
+甘肃卫视
 广西卫视
 贵州卫视
 海南卫视
@@ -86,99 +64,85 @@ CETV-4
 新疆卫视
 云南卫视
 三沙卫视
-
+兵团卫视
+延边卫视
+康巴卫视
 凤凰中文
 凤凰资讯
-Phoenix Chinese
-Phoenix Info
 
 ☘️广东频道,#genre#
 广东珠江
-GDTV Pearl
-
 广东体育
-GDTV Sports
-
 广东新闻
-
+广东卫视
 大湾区卫视
-
 广州综合
-GRT Comprehensive
-
 广州影视
 广州竞赛
-
 深圳卫视
-SZTV
+南方卫视
 
 香港,#genre#
 TVB Jade
-翡翠台
 TVB J2
 TVB News
-TVB新聞台
-
 HOY TV
-
+HOY International Business Channel
+HOY Infotainment
 RTHK 31
 RTHK 32
-
+RTHK 33
+RTHK 34
+RTHK 35
 ViuTV
 ViuTVsix
-
 凤凰香港
-Phoenix Hong Kong
+耀才財經台
+
+澳门,#genre#
+澳门卫视
+澳视澳门
+澳视体育
+澳视资讯
+澳视娱乐
+澳视葡文
 
 台湾,#genre#
 台視
-台视
-
 中視
-中视
-
 華視
-华视
-
 民視
-民视
-
 公視
-公视
-
 TVBS
 TVBS News
-
+TVBS Asia
 東森新聞
-东森新闻
-
+東森財經新聞
 三立新聞
-三立新闻
-
 中天新聞
-中天新闻
-
 民視新聞
-民视新闻
+台視新聞
+中視新聞
+華視新聞
+寰宇新聞
+Taiwan Plus TV
+DaAi1
+DaAi2
 
-年代新聞
-年代新闻
-
-美国,#genre#
+美国/国际新闻,#genre#
 ABC News
 CBS News
 NBC News
-
 FOX News
 Fox Business
-
 CNN
 CNN International
-
 CNBC
 Bloomberg
-
+Bloomberg TV Asia
 PBS
 NASA TV
-
 CGTN America
+CGTN Global Biz
+VOA美国之音
+DW
