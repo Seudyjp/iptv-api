@@ -70,32 +70,7 @@ CETV-4
 广州综合
 广州影视
 广州竞赛
-江门综合
-江门侨乡生活
-佛山综合
 深圳卫视
-汕头综合
-汕头经济
-汕头文旅
-茂名综合
-茂名公共
-
-日本,#genre#
-NHK総合
-NHK Eテレ
-NHK WORLD-JAPAN
-日テレ
-日本テレビ
-テレビ朝日
-TBSテレビ
-テレビ東京
-フジテレビ
-TOKYO MX
-BS日テレ
-BS朝日
-BS-TBS
-BSテレ東
-BSフジ
 
 香港,#genre#
 TVB Jade
