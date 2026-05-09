@@ -57,6 +57,8 @@ CETV-4
 西藏卫视
 新疆卫视
 云南卫视
+凤凰中文
+凤凰资讯
 
 ☘️广东频道,#genre#
 广东珠江
@@ -77,3 +79,61 @@ CETV-4
 汕头文旅
 茂名综合
 茂名公共
+
+日本,#genre#
+NHK
+NHK G
+NHK E
+日テレ
+テレビ朝日
+TBS
+テレビ東京
+フジテレビ
+TOKYO MX
+BS日テレ
+BS朝日
+BS-TBS
+BSテレ東
+BSフジ
+
+香港,#genre#
+TVB Jade
+TVB J2
+TVB News
+HOY TV
+RTHK 31
+RTHK 32
+ViuTV
+凤凰香港
+
+台湾,#genre#
+台视
+中视
+华视
+民视
+公视
+TVBS
+东森新闻
+三立新闻
+中天新闻
+年代新闻
+非凡新闻
+
+澳门,#genre#
+澳视澳门
+澳视葡文
+澳视体育
+澳视资讯
+澳门卫星
+
+美国,#genre#
+ABC
+CBS
+NBC
+FOX
+PBS
+CNN
+CNBC
+Bloomberg
+NASA TV
+CGTN America
