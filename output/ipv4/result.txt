@@ -1,0 +1,23 @@
+🕘️更新时间,#genre#
+2026-05-09 20:58:31,http://74.91.26.218:82/live/cctv16hd.m3u8
+
+📺央视频道,#genre#
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+
+📡卫视频道,#genre#
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+
+☘️广东频道,#genre#
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+
+日本,#genre#
+
+香港,#genre#
+
+台湾,#genre#
+
+澳门,#genre#
+
+美国,#genre#
