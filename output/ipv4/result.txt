@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-10 00:12:45,http://74.91.26.218:82/live/cctv16hd.m3u8
+2026-05-10 09:37:24,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778421600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3bf34f117c8ceef4fbec5376c7d979e8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 📺央视频道,#genre#
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778421600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3bf34f117c8ceef4fbec5376c7d979e8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1778421600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-4952a2f53a62ffcd5cb52948f5b635c7&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 CGTN Documentary,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
