@@ -1,9 +1,21 @@
 🕘️更新时间,#genre#
-2026-05-10 10:13:31,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778421600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3bf34f117c8ceef4fbec5376c7d979e8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+2026-05-16 12:37:01,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778421600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3bf34f117c8ceef4fbec5376c7d979e8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
+CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 CGTN Documentary,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
